@@ -1,0 +1,36 @@
+D:\Desktop\KinectWPFOpenCV\.Release\KinectInteraction170_32.dll
+D:\Desktop\KinectWPFOpenCV\.Release\KinectInteraction170_64.dll
+D:\Desktop\KinectWPFOpenCV\.Release\Microsoft.Kinect.Toolkit.Controls.dll
+D:\Desktop\KinectWPFOpenCV\.Release\Microsoft.Kinect.Toolkit.Controls.pdb
+D:\Desktop\Microsoft.Kinect.Toolkit.Controls\obj\Release\ResolveAssemblyReference.cache
+D:\Desktop\Microsoft.Kinect.Toolkit.Controls\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Desktop\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+D:\Desktop\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+D:\Desktop\Microsoft.Kinect.Toolkit.Controls\obj\Release\Themes\Generic.baml
+D:\Desktop\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls.g.resources
+D:\Desktop\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls.dll
+D:\Desktop\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls.pdb
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Release\Kinect.Joy_Lib\KinectInteraction170_32.dll
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Release\Kinect.Joy_Lib\KinectInteraction170_64.dll
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Release\Kinect.Joy_Lib\Microsoft.Kinect.Toolkit.Controls.dll
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Release\Kinect.Joy_Lib\Microsoft.Kinect.Toolkit.Controls.pdb
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\Microsoft.Kinect.Toolkit.Controls\obj\Release\ResolveAssemblyReference.cache
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\Microsoft.Kinect.Toolkit.Controls\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\Microsoft.Kinect.Toolkit.Controls\obj\Release\Themes\Generic.baml
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls.g.resources
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls.dll
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls.pdb
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Development\Kinect.Joy\.Release\Kinect.Joy_Lib\KinectInteraction170_32.dll
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Development\Kinect.Joy\.Release\Kinect.Joy_Lib\KinectInteraction170_64.dll
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Development\Kinect.Joy\.Release\Kinect.Joy_Lib\Microsoft.Kinect.Toolkit.Controls.dll
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Development\Kinect.Joy\.Release\Kinect.Joy_Lib\Microsoft.Kinect.Toolkit.Controls.pdb
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Development\Kinect.Joy\Microsoft.Kinect.Toolkit.Controls\obj\Release\ResolveAssemblyReference.cache
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Development\Kinect.Joy\Microsoft.Kinect.Toolkit.Controls\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Development\Kinect.Joy\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Development\Kinect.Joy\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Development\Kinect.Joy\Microsoft.Kinect.Toolkit.Controls\obj\Release\Themes\Generic.baml
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Development\Kinect.Joy\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls.g.resources
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Development\Kinect.Joy\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls.dll
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Development\Kinect.Joy\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls.pdb

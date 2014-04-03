@@ -1,0 +1,20 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:k="http://schemas.microsoft.com/kinect/2013"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:FluidKit_Controls="clr-namespace:FluidKit.Controls;assembly=FluidKit"
+	mc:Ignorable="d"
+	x:Class="Kinect.Joy.View3D"
+	x:Name="UserControl"
+	d:DesignWidth="784" d:DesignHeight="387" Background="#FF333333">
+    
+    <FluidKit_Controls:ElementFlow ItemGap="0.65"  ElementWidth="300" ElementHeight="300" x:Name="EFlow" Background="Silver">
+        <FluidKit_Controls:ElementFlow.Camera>
+            <PerspectiveCamera FieldOfView="60" Position="0,3,6" LookDirection="0,-3,-6" />
+        </FluidKit_Controls:ElementFlow.Camera>
+
+    </FluidKit_Controls:ElementFlow>
+
+</UserControl>

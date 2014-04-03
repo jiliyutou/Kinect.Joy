@@ -1,0 +1,36 @@
+D:\Desktop\Microsoft.Kinect.Toolkit\bin\Release\Microsoft.Kinect.Toolkit.dll
+D:\Desktop\Microsoft.Kinect.Toolkit\bin\Release\Microsoft.Kinect.Toolkit.pdb
+D:\Desktop\Microsoft.Kinect.Toolkit\obj\Release\ResolveAssemblyReference.cache
+D:\Desktop\Microsoft.Kinect.Toolkit\obj\Release\KinectSensorChooserUI.baml
+D:\Desktop\Microsoft.Kinect.Toolkit\obj\Release\KinectSensorChooserUI.g.cs
+D:\Desktop\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+D:\Desktop\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.g.resources
+D:\Desktop\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+D:\Desktop\Microsoft.Kinect.Toolkit\obj\Release\GenerateResource.read.1.tlog
+D:\Desktop\Microsoft.Kinect.Toolkit\obj\Release\GenerateResource.write.1.tlog
+D:\Desktop\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.dll
+D:\Desktop\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.pdb
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Release\Kinect.Joy_Lib\Microsoft.Kinect.Toolkit.dll
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Release\Kinect.Joy_Lib\Microsoft.Kinect.Toolkit.pdb
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\Microsoft.Kinect.Toolkit\obj\Release\ResolveAssemblyReference.cache
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\Microsoft.Kinect.Toolkit\obj\Release\KinectSensorChooserUI.baml
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\Microsoft.Kinect.Toolkit\obj\Release\KinectSensorChooserUI.g.cs
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.g.resources
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\Microsoft.Kinect.Toolkit\obj\Release\GenerateResource.read.1.tlog
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\Microsoft.Kinect.Toolkit\obj\Release\GenerateResource.write.1.tlog
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.dll
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.pdb
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Development\Kinect.Joy\.Release\Kinect.Joy_Lib\Microsoft.Kinect.Toolkit.dll
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Development\Kinect.Joy\.Release\Kinect.Joy_Lib\Microsoft.Kinect.Toolkit.pdb
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Development\Kinect.Joy\Microsoft.Kinect.Toolkit\obj\Release\ResolveAssemblyReference.cache
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Development\Kinect.Joy\Microsoft.Kinect.Toolkit\obj\Release\KinectSensorChooserUI.baml
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Development\Kinect.Joy\Microsoft.Kinect.Toolkit\obj\Release\KinectSensorChooserUI.g.cs
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Development\Kinect.Joy\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Development\Kinect.Joy\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.g.resources
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Development\Kinect.Joy\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Development\Kinect.Joy\Microsoft.Kinect.Toolkit\obj\Release\GenerateResource.read.1.tlog
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Development\Kinect.Joy\Microsoft.Kinect.Toolkit\obj\Release\GenerateResource.write.1.tlog
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Development\Kinect.Joy\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.dll
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Development\Kinect.Joy\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.pdb

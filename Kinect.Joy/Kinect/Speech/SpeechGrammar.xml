@@ -1,0 +1,49 @@
+﻿<grammar version="1.0" xml:lang="en-US" root="rootRule" tag-format="semantics/1.0-literals" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="rootRule">
+    <one-of>
+      <item>
+        <tag>SHARE</tag>
+        <one-of>
+          <item> share </item>
+          <item> share image </item>
+          <item> share picture </item>
+        </one-of>
+      </item>
+      
+      <item>
+        <tag>BACK</tag>
+        <one-of>
+          <item> back </item>
+          <item> go back </item>
+        </one-of>
+      </item>
+      
+      <item>
+        <tag>PHOTO</tag>
+        <one-of>
+          <item> take picture </item>
+          <item> take photo</item>
+        </one-of>
+      </item>
+      
+      <item>
+        <tag>NEXT</tag>
+        <one-of>
+          <item> next </item>
+          <item> next image </item>
+          <item> next picture </item>
+        </one-of>
+      </item>
+      
+      <item>
+        <tag>PREVIOUS</tag>
+        <one-of>
+          <item> previous </item>
+          <item> previous image</item>
+          <item> previous picture</item>
+        </one-of>
+      </item>
+      
+    </one-of>
+  </rule>
+</grammar>

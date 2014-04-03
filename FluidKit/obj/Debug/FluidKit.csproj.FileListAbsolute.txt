@@ -1,0 +1,56 @@
+D:\Desktop\wpfimageutils-64519\output\FluidKit.dll
+D:\Desktop\wpfimageutils-64519\output\FluidKit.pdb
+D:\Desktop\wpfimageutils-64519\FluidKit\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\wpfimageutils-64519\FluidKit\obj\Debug\Controls\ElementFlow\InternalResources.baml
+D:\Desktop\wpfimageutils-64519\FluidKit\obj\Debug\Controls\Transition\Cube.baml
+D:\Desktop\wpfimageutils-64519\FluidKit\obj\Debug\Controls\Transition\TransitionStoryboards.baml
+D:\Desktop\wpfimageutils-64519\FluidKit\obj\Debug\Themes\Generic.baml
+D:\Desktop\wpfimageutils-64519\FluidKit\obj\Debug\Themes\VistaBackground.baml
+D:\Desktop\wpfimageutils-64519\FluidKit\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Desktop\wpfimageutils-64519\FluidKit\obj\Debug\FluidKit_MarkupCompile.cache
+D:\Desktop\wpfimageutils-64519\FluidKit\obj\Debug\FluidKit_MarkupCompile.lref
+D:\Desktop\wpfimageutils-64519\FluidKit\obj\Debug\Experimental\AutoCompleteBox.baml
+D:\Desktop\wpfimageutils-64519\FluidKit\obj\Debug\Controls\ElementFlow\ElementFlow.Generic.baml
+D:\Desktop\wpfimageutils-64519\FluidKit\obj\Debug\Controls\Transition\Genie\Genie.baml
+D:\Desktop\wpfimageutils-64519\FluidKit\obj\Debug\Themes\GlassWindow.generic.baml
+D:\Desktop\wpfimageutils-64519\FluidKit\obj\Debug\Themes\ImageButton.generic.baml
+D:\Desktop\wpfimageutils-64519\FluidKit\obj\Debug\Themes\MacOSXWindow.baml
+D:\Desktop\wpfimageutils-64519\FluidKit\obj\Debug\Themes\Thumb.baml
+D:\Desktop\wpfimageutils-64519\FluidKit\obj\Debug\Themes\TransitionPresenter.generic.baml
+D:\Desktop\wpfimageutils-64519\FluidKit\obj\Debug\FluidKit.g.resources
+D:\Desktop\wpfimageutils-64519\FluidKit\obj\Debug\FluidKit.Properties.Resources.resources
+D:\Desktop\wpfimageutils-64519\FluidKit\obj\Debug\ResGen.read.1.tlog
+D:\Desktop\wpfimageutils-64519\FluidKit\obj\Debug\ResGen.write.1.tlog
+D:\Desktop\wpfimageutils-64519\FluidKit\obj\Debug\FluidKit.dll
+D:\Desktop\wpfimageutils-64519\FluidKit\obj\Debug\FluidKit.pdb
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\ToolKitTest\output\FluidKit.dll
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\ToolKitTest\output\FluidKit.pdb
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\FluidKit.dll
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\FluidKit.pdb
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\FluidKik_Lib\FluidKit.dll
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\FluidKik_Lib\FluidKit.pdb
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Kinect.Joy_Lib\FluidKit.dll
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Kinect.Joy_Lib\FluidKit.pdb
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\FluidKit\obj\Debug\ResolveAssemblyReference.cache
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\FluidKit\obj\Debug\Controls\ElementFlow\InternalResources.baml
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\FluidKit\obj\Debug\Controls\Transition\Cube.baml
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\FluidKit\obj\Debug\Controls\Transition\TransitionStoryboards.baml
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\FluidKit\obj\Debug\Themes\Generic.baml
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\FluidKit\obj\Debug\Themes\VistaBackground.baml
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\FluidKit\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\FluidKit\obj\Debug\FluidKit_MarkupCompile.cache
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\FluidKit\obj\Debug\FluidKit_MarkupCompile.lref
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\FluidKit\obj\Debug\Experimental\AutoCompleteBox.baml
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\FluidKit\obj\Debug\Controls\ElementFlow\ElementFlow.Generic.baml
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\FluidKit\obj\Debug\Controls\Transition\Genie\Genie.baml
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\FluidKit\obj\Debug\Themes\GlassWindow.generic.baml
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\FluidKit\obj\Debug\Themes\ImageButton.generic.baml
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\FluidKit\obj\Debug\Themes\MacOSXWindow.baml
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\FluidKit\obj\Debug\Themes\Thumb.baml
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\FluidKit\obj\Debug\Themes\TransitionPresenter.generic.baml
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\FluidKit\obj\Debug\FluidKit.g.resources
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\FluidKit\obj\Debug\FluidKit.Properties.Resources.resources
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\FluidKit\obj\Debug\GenerateResource.read.1.tlog
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\FluidKit\obj\Debug\GenerateResource.write.1.tlog
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\FluidKit\obj\Debug\FluidKit.dll
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\FluidKit\obj\Debug\FluidKit.pdb

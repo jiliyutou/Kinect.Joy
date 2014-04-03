@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DDBEA9AA-0F71-4331-B2E0-CE514D066B11}</ProjectGuid>
+    <OutputType>library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ImageView.Shaders</RootNamespace>
+    <AssemblyName>ImageView.Shaders</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\.Debug\Kinect.Joy_Lib\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\.Release\Kinect.Joy_Lib\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EffectFiles\BandedSwirlTransitionEffect.cs" />
+    <Compile Include="EffectFiles\BlindsTransitionEffect.cs" />
+    <Compile Include="EffectFiles\BloodTransitionEffect.cs" />
+    <Compile Include="EffectFiles\CircleStretchTransitionEffect.cs" />
+    <Compile Include="EffectFiles\CloudyTransitionEffect.cs" />
+    <Compile Include="EffectFiles\CrumbleTransitionEffect.cs" />
+    <Compile Include="EffectFiles\DisolveTransitionEffect.cs" />
+    <Compile Include="EffectFiles\DropFadeTransitionEffect.cs" />
+    <Compile Include="EffectFiles\FadeTransitionEffect.cs" />
+    <Compile Include="EffectFiles\LeastBrightTransitionEffect.cs" />
+    <Compile Include="EffectFiles\LineRevealTransitionEffect.cs" />
+    <Compile Include="EffectFiles\MostBrightTransitionEffect.cs" />
+    <Compile Include="EffectFiles\PixelateOutTransitionEffect.cs" />
+    <Compile Include="EffectFiles\PixelateTransitionEffect.cs" />
+    <Compile Include="EffectFiles\RadialBlurTransitionEffect.cs" />
+    <Compile Include="EffectFiles\RadialWiggleTransitionEffect.cs" />
+    <Compile Include="EffectFiles\RandomCircleRevealTransitionEffect.cs" />
+    <Compile Include="EffectFiles\RandomizedTransitionEffect.cs" />
+    <Compile Include="EffectFiles\RippleTransitionEffect.cs" />
+    <Compile Include="EffectFiles\RotateCrumbleTransitionEffect.cs" />
+    <Compile Include="EffectFiles\SaturateTransitionEffect.cs" />
+    <Compile Include="EffectFiles\ShrinkTransitionEffect.cs" />
+    <Compile Include="EffectFiles\SlideInTransitionEffect.cs" />
+    <Compile Include="EffectFiles\SwirlGridTransitionEffect.cs" />
+    <Compile Include="EffectFiles\SwirlTransitionEffect.cs" />
+    <Compile Include="EffectFiles\TransitionEffect.cs" />
+    <Compile Include="EffectFiles\WaterTransitionEffect.cs" />
+    <Compile Include="EffectFiles\WaveTransitionEffect.cs" />
+    <Compile Include="EffectManager.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+    <Resource Include="ShaderSource\BandedSwirlTransitionEffect.ps" />
+    <Resource Include="ShaderSource\BlindsTransitionEffect.ps" />
+    <Resource Include="ShaderSource\BloodTransitionEffect.ps" />
+    <Resource Include="ShaderSource\CircleStretchTransitionEffect.ps" />
+    <Resource Include="ShaderSource\CrumbleTransitionEffect.ps" />
+    <Resource Include="ShaderSource\DisolveTransitionEffect.ps" />
+    <Resource Include="ShaderSource\DropFadeTransitionEffect.ps" />
+    <Resource Include="ShaderSource\FadeTransitionEffect.ps" />
+    <Resource Include="ShaderSource\LeastBrightTransitionEffect.ps" />
+    <Resource Include="ShaderSource\LineRevealTransitionEffect.ps" />
+    <Resource Include="ShaderSource\MostBrightTransitionEffect.ps" />
+    <Resource Include="ShaderSource\PixelateOutTransitionEffect.ps" />
+    <Resource Include="ShaderSource\PixelateTransitionEffect.ps" />
+    <Resource Include="ShaderSource\RadialBlurTransitionEffect.ps" />
+    <Resource Include="ShaderSource\RadialWiggleTransitionEffect.ps" />
+    <Resource Include="ShaderSource\RandomCircleRevealTransitionEffect.ps" />
+    <Resource Include="ShaderSource\RippleTransitionEffect.ps" />
+    <Resource Include="ShaderSource\RotateCrumbleTransitionEffect.ps" />
+    <Resource Include="ShaderSource\SaturateTransitionEffect.ps" />
+    <Resource Include="ShaderSource\ShrinkTransitionEffect.ps" />
+    <Resource Include="ShaderSource\SlideInTransitionEffect.ps" />
+    <Resource Include="ShaderSource\SwirlGridTransitionEffect.ps" />
+    <Resource Include="ShaderSource\SwirlTransitionEffect.ps" />
+    <Resource Include="ShaderSource\WaterTransitionEffect.ps" />
+    <Resource Include="ShaderSource\WaveTransitionEffect.ps" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Maps\1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Maps\10.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Maps\11.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Maps\12.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Maps\13.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Maps\14.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Maps\15.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Maps\16.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Maps\2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Maps\3.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Maps\4.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Maps\5.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Maps\6.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Maps\7.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Maps\8.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Maps\9.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

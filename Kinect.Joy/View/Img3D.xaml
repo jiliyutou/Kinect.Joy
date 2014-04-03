@@ -1,0 +1,32 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:k="http://schemas.microsoft.com/kinect/2013"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	x:Class="Kinect.Joy.Img3D"
+	x:Name="Img3DControl"
+	d:DesignWidth="300" d:DesignHeight="300" Width="300" Height="300">
+    <Border BorderBrush="#FFB1B1B1" BorderThickness="2" Background="#7FFFFFFF" CornerRadius="3" Padding="5">
+        <Grid>
+            <Image HorizontalAlignment="Center" VerticalAlignment="Center" Stretch="UniformToFill" Source="{Binding ElementName=Img3DControl, Path=ThumbImage}">
+                <Image.LayoutTransform>
+                    <!--<k:KinectTileButton.Background>
+                    <ImageBrush ImageSource="D:\Desktop\桌面壁纸\902397dda144ad34a9b7cf3dd0a20cf431ad8504.jpg" Stretch="Fill"/>
+                      </k:KinectTileButton.Background>-->
+                    <TransformGroup>
+                        <RotateTransform x:Name="ImgRot" Angle="0"/>
+                        <ScaleTransform x:Name="ImgScale" ScaleX="1" ScaleY="1"/>
+                    </TransformGroup>
+                </Image.LayoutTransform>
+            </Image>
+            <Rectangle x:Name="VideoIcon" Width="60" Height="60" Visibility="Hidden" VerticalAlignment="Bottom" HorizontalAlignment="Right">
+                <!-- 
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="../images/player_play.png"/>
+                </Rectangle.Fill> !-->
+            </Rectangle>
+        </Grid>
+    </Border>
+</UserControl>

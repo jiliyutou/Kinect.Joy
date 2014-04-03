@@ -1,0 +1,8 @@
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Kinect.FingerTracking.dll
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Kinect.FingerTracking.pdb
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\Kinect.FingerTracking\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\Kinect.FingerTracking\obj\x86\Debug\Kinect.FingerTracking.Properties.Resources.resources
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\Kinect.FingerTracking\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\Kinect.FingerTracking\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\Kinect.FingerTracking\obj\x86\Debug\Kinect.FingerTracking.dll
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\Kinect.FingerTracking\obj\x86\Debug\Kinect.FingerTracking.pdb

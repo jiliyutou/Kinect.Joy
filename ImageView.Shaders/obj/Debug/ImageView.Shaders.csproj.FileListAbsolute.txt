@@ -1,0 +1,104 @@
+D:\Desktop\wpfimageutils-64519\output\Maps\1.jpg
+D:\Desktop\wpfimageutils-64519\output\Maps\10.jpg
+D:\Desktop\wpfimageutils-64519\output\Maps\11.jpg
+D:\Desktop\wpfimageutils-64519\output\Maps\12.jpg
+D:\Desktop\wpfimageutils-64519\output\Maps\13.jpg
+D:\Desktop\wpfimageutils-64519\output\Maps\14.jpg
+D:\Desktop\wpfimageutils-64519\output\Maps\15.jpg
+D:\Desktop\wpfimageutils-64519\output\Maps\16.jpg
+D:\Desktop\wpfimageutils-64519\output\Maps\2.jpg
+D:\Desktop\wpfimageutils-64519\output\Maps\3.jpg
+D:\Desktop\wpfimageutils-64519\output\Maps\4.jpg
+D:\Desktop\wpfimageutils-64519\output\Maps\5.jpg
+D:\Desktop\wpfimageutils-64519\output\Maps\6.jpg
+D:\Desktop\wpfimageutils-64519\output\Maps\7.jpg
+D:\Desktop\wpfimageutils-64519\output\Maps\8.jpg
+D:\Desktop\wpfimageutils-64519\output\Maps\9.jpg
+D:\Desktop\wpfimageutils-64519\output\ImageView.Shaders.dll
+D:\Desktop\wpfimageutils-64519\output\ImageView.Shaders.pdb
+D:\Desktop\wpfimageutils-64519\Kepnezegeto.Shaders\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\wpfimageutils-64519\Kepnezegeto.Shaders\obj\Debug\ImageView.Shaders.g.resources
+D:\Desktop\wpfimageutils-64519\Kepnezegeto.Shaders\obj\Debug\ImageView.Shaders.Properties.Resources.resources
+D:\Desktop\wpfimageutils-64519\Kepnezegeto.Shaders\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\wpfimageutils-64519\Kepnezegeto.Shaders\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\wpfimageutils-64519\Kepnezegeto.Shaders\obj\Debug\ImageView.Shaders.dll
+D:\Desktop\wpfimageutils-64519\Kepnezegeto.Shaders\obj\Debug\ImageView.Shaders.pdb
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\ToolKitTest\output\Maps\1.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\ToolKitTest\output\Maps\10.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\ToolKitTest\output\Maps\11.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\ToolKitTest\output\Maps\12.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\ToolKitTest\output\Maps\13.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\ToolKitTest\output\Maps\14.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\ToolKitTest\output\Maps\15.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\ToolKitTest\output\Maps\16.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\ToolKitTest\output\Maps\2.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\ToolKitTest\output\Maps\3.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\ToolKitTest\output\Maps\4.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\ToolKitTest\output\Maps\5.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\ToolKitTest\output\Maps\6.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\ToolKitTest\output\Maps\7.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\ToolKitTest\output\Maps\8.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\ToolKitTest\output\Maps\9.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\ToolKitTest\output\ImageView.Shaders.dll
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\ToolKitTest\output\ImageView.Shaders.pdb
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Maps\1.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Maps\10.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Maps\11.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Maps\12.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Maps\13.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Maps\14.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Maps\15.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Maps\16.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Maps\2.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Maps\3.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Maps\4.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Maps\5.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Maps\6.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Maps\7.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Maps\8.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Maps\9.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\ImageView.Shaders.dll
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\ImageView.Shaders.pdb
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Shaders_Lib\Maps\1.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Shaders_Lib\Maps\10.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Shaders_Lib\Maps\11.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Shaders_Lib\Maps\12.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Shaders_Lib\Maps\13.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Shaders_Lib\Maps\14.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Shaders_Lib\Maps\15.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Shaders_Lib\Maps\16.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Shaders_Lib\Maps\2.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Shaders_Lib\Maps\3.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Shaders_Lib\Maps\4.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Shaders_Lib\Maps\5.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Shaders_Lib\Maps\6.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Shaders_Lib\Maps\7.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Shaders_Lib\Maps\8.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Shaders_Lib\Maps\9.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Shaders_Lib\ImageView.Shaders.dll
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Shaders_Lib\ImageView.Shaders.pdb
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Kinect.Joy_Lib\Maps\1.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Kinect.Joy_Lib\Maps\10.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Kinect.Joy_Lib\Maps\11.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Kinect.Joy_Lib\Maps\12.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Kinect.Joy_Lib\Maps\13.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Kinect.Joy_Lib\Maps\14.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Kinect.Joy_Lib\Maps\15.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Kinect.Joy_Lib\Maps\16.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Kinect.Joy_Lib\Maps\2.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Kinect.Joy_Lib\Maps\3.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Kinect.Joy_Lib\Maps\4.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Kinect.Joy_Lib\Maps\5.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Kinect.Joy_Lib\Maps\6.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Kinect.Joy_Lib\Maps\7.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Kinect.Joy_Lib\Maps\8.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Kinect.Joy_Lib\Maps\9.jpg
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Kinect.Joy_Lib\ImageView.Shaders.dll
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\.Debug\Kinect.Joy_Lib\ImageView.Shaders.pdb
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\ImageView.Shaders\obj\Debug\ResolveAssemblyReference.cache
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\ImageView.Shaders\obj\Debug\ImageView.Shaders.g.resources
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\ImageView.Shaders\obj\Debug\ImageView.Shaders.Properties.Resources.resources
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\ImageView.Shaders\obj\Debug\GenerateResource.read.1.tlog
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\ImageView.Shaders\obj\Debug\GenerateResource.write.1.tlog
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\ImageView.Shaders\obj\Debug\ImageView.Shaders.dll
+E:\ZHKDisk\GratuateInBuaa\码上Kinect 2013\Demo\Kinect.Joy\ImageView.Shaders\obj\Debug\ImageView.Shaders.pdb
